@@ -17,6 +17,8 @@ The project concludes with **data-driven recommendations** to improve customer l
   - `products`  
 - **Periods Covered:** 2019–2025  
 
+⚠️ **Note:** The dataset is updated regularly. As a result, query outputs may differ slightly depending on when you run them.
+
 ---
 
 ## Exploratory Data Analysis (EDA)
@@ -27,13 +29,16 @@ The project concludes with **data-driven recommendations** to improve customer l
   Analyzed users by **country, gender, and age group** to identify top markets and demographic-driven sales.  
 
 - **Revenue Distribution**  
-  Explored revenue contribution across geographies, product categories, and order types (first vs. repeat purchases).  
+  Explored revenue contribution across geographies, demographics, product categories, and order types (first vs. repeat purchases).  
 
 - **Return Orders**  
   Investigated product return trends, quantifying **return rate and revenue loss** from returned orders.  
 
 - **Average Order Value (AOV)**  
   Evaluated AOV across different dimensions to identify whether revenue is driven by order frequency or spending per order.  
+
+- **Logistics Performance**
+  Evaluated shipping performance for completed orders across all countries.
 
 ---
 

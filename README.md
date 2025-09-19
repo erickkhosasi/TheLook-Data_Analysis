@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project was completed as the final assignment for my **SQL with BigQuery Mini Bootcamp**. The goal is to analyze an e-commerce dataset to uncover key insights on **sales performance, customer behavior, return rates, and retention**. The analysis highlights the business challenges of high product return rates, dependency on first-time orders, and sales concentration in top countries.
-The project concludes with **data-driven recommendations** to improve customer lifetime value (CLV), optimize retention strategies, an strengthen market-focuse campaigns.
+The project concludes with **data-driven recommendations** to improve customer lifetime value (CLV), optimize retention strategies, an strengthen market-focused campaigns.
 
 ---
 
